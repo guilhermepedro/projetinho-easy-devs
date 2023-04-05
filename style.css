@@ -9,3 +9,11 @@ body{
     height: 150px;
     
 }
+
+.img{
+    width: 200px;
+    height: 200px;
+    background-image: url('../Projetinho/download.jpg');
+    background-position: center;
+    background-size: cover;
+}
