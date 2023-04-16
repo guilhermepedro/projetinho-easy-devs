@@ -1,0 +1,101 @@
+h1 {
+    font-size: 350%;
+    padding: 80px;
+    background-image: url('../Projetinho/1280x962-20210628173708-Graduação\ na\ academia\ UNIASSELVI\ e\ Smart\ Fit\ anunciam.jpg');
+    width: 1177px;
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    border-bottom: 2px solid rgb(4, 4, 92);
+    border-top: 2px solid rgb(4, 4, 92);
+    border-left: 2px solid rgb(4, 4, 92);
+    border-right: 2px solid rgb(4, 4, 92);
+    
+}
+
+body{
+    background-color: rgb(96, 211, 211);
+    text-align: center;
+    font-size: 130%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.btn{
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.horario{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: left;
+    text-align: center;
+    width: 100px;
+    height: 200px;
+}
+
+.horas{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    float: left;
+    width: 400px;
+    height: 100px;
+    position: absolute;
+}
+
+.aluno{
+    font-size: 40px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+
+.diferenciais-container{
+    margin: 3%;
+    width: 400px;
+    height: 200px;
+    float: left;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+}
+
+footer{
+    background-color: blue;
+    color: aliceblue;
+    padding: 25px;
+    text-align: center;
+    border-top: 3px solid black;
+}
+
+.card{
+    width: 120%;
+    display: inline-flex;
+}
+
+.product-image{
+    height: 30px;
+    width: 30px;
+    margin-bottom: 5px;
+    background-position: center;
+    background-size: cover;
+}
+
+#img1{
+    background-image: url('../Projetinho/5d2de220538bc620838613.png');
+
+}
+
+#img2{
+    background-image: url('../Projetinho/5d2de22b33b6f228289510.png');
+    
+}
+
+#img3{
+    background-image: url('../Projetinho/5d2de240b12a5207527164.png');
+    
+}
